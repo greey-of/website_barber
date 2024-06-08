@@ -1,0 +1,59 @@
+
+
+p{
+    text-align: center;
+   
+}
+
+.titulo-principal{
+    padding-left: 30px; /* paddind: espaciamiento interno*/
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+
+}
+
+
+em strong{
+
+    color: red;
+
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.diferenciales{
+    background-color: #FFFFFF;
+    padding: 30px;
+    
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;    
+    margin-right: 15%;                    
+    
+}                          
+/* con "inline-block" ul se comparta como  elemento en linea  (no inicia una nueva línea y sólo ocupa el espacio     necesario),*/
+/* pero también como un elemento de bloque (puedes establecer las propiedades de ancho y alto)*/
+
+.imagenDiferenciales{
+    width: 50%;
+}
